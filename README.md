@@ -26,18 +26,16 @@ I’m a junior Information Technology major at Fisher College with a minor in So
 ### **Databases**
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MySQL" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PhpMyAdmin_logo.svg" alt="phpMyAdmin" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MySQL Workbench" height="40"/>
+
+### **Version Control & DevOpss**
+[<img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.svg" alt="Git" height="40"/> 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="40"/> 
+[<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" height="40"/> 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/CPanel_logo.svg" alt="cPanel" height="40"/>
 
 ### **Cybersecurity & Automation**  
 - Secure Web Application Development • Threat Modeling • Access Control  
 - AI Integration & GPT API • Chatbot Development • Prompt Engineering  
-
-### **Version Control & DevOpss**
-<img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.svg" alt="Git" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/CPanel_logo.svg" alt="cPanel" height="40"/>
-
 ---
 
 ## 🚀 Notable Projects
