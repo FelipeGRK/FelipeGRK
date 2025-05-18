@@ -26,8 +26,7 @@ I’m a junior Information Technology major at Fisher College with a minor in So
 
 
 ### **Database Management**  
-[<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="40">](https://www.mysql.com/)  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PhpMyAdmin_logo.svg" height="40">](https://www.phpmyadmin.net/) 
+[<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="40">](https://www.mysql.com/)[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PhpMyAdmin_logo.svg" height="40">](https://www.phpmyadmin.net/)
 
 
 
