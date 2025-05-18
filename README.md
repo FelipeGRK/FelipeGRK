@@ -98,15 +98,6 @@ Expected Graduation: May 2026 | Dean’s List (GPA: 3.9)
 
 ---
 
-## 💼 Experience
-
-**Maintenance Student Assistant** — Lee Company, Lebanon, TN (May–Jul 2024)  
-- Performed HVAC installations, building inspections, and event setups—improving site efficiency.
-
-**Food Service Attendant** — Sodexo, Miami, OK (Aug 2022–Mar 2023)  
-- Managed meal prep, service, and event catering; upheld high standards of quality and cleanliness.
-
----
 
 ## 📬 Let’s Connect
 
