@@ -12,28 +12,31 @@ I’m a junior Information Technology major at Fisher College with a minor in So
 ## 🛠 Tech Stack & Expertise
 
 ### **Languages & Frameworks** 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70CF6&width=435&lines=Python%2CJavaScript%2C+C%23%2C+Node.js%2C+HTML%2C+SQL%2C+PHP" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70CF6&width=435&lines=Python%2CJavaScript%2C+C%23%2C+Node.js%2C+HTML%2C+SQL%2C+PHP)](https://git.io/typing-svg)
 
-[<img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="Python" height="40"/> 
-[<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" height="40"/> 
-[<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" height="40"/> 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg" alt="AJAX" height="40"/> 
-[<img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/sql-icon.svg" alt="SQL" height="40"/> 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" height="40"/> 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" height="40"/> 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5" height="40"/> 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" height="40"/>
+### **Languages & Frameworks**  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40">](https://www.python.org/) :contentReference[oaicite:0]{index=0}  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) :contentReference[oaicite:1]{index=1}  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="40">](https://nodejs.org/) :contentReference[oaicite:2]{index=2}  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40">](https://www.php.net/) :contentReference[oaicite:3]{index=3}  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Logo_C_sharp.svg" height="40">](https://learn.microsoft.com/dotnet/csharp/) :contentReference[oaicite:4]{index=4}  
 
+### **Web Development**  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/HTML) :contentReference[oaicite:5]{index=5}  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/CSS3_logo_and_wordmark.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/CSS) :contentReference[oaicite:6]{index=6}  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="40">](https://www.typescriptlang.org/)  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Ajax_logo.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)  
 
-### **Databases**
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MySQL" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PhpMyAdmin_logo.svg" alt="phpMyAdmin" height="40"/> 
+### **Database Management**  
+[<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="40">](https://www.mysql.com/)  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Phpmyadmin_logo_2021.svg" height="40">](https://www.phpmyadmin.net/)  
 
-### **Version Control & DevOpss**
-[<img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.svg" alt="Git" height="40"/> 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="40"/> 
-[<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" height="40"/> 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/CPanel_logo.svg" alt="cPanel" height="40"/>
+### **DevOps & Tools**  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/GitHub-Mark.svg" height="40">](https://github.com/)  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Docker_logo.svg" height="40">](https://www.docker.com/)  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40">](https://www.sql.org/)  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Visual_Studio_Code_1.35_icon.svg" height="40">](https://code.visualstudio.com/)  
+
 
 ### **Cybersecurity & Automation**  
 - Secure Web Application Development • Threat Modeling • Access Control  
