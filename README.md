@@ -90,13 +90,14 @@ The Iron Forge Gym Website is a class project designed to showcase a professiona
 
 ---
 
-## 🎖 Certifications
+## 🏅 Certifications
 
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="24"> **Databases & SQL for Data Science with Python (IBM)**](https://www.coursera.org/account/accomplishments/verify/DFMPM5NYEM0S)  
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/University_of_Michigan_logo.svg" height="24"> **Introduction to HTML5 (University of Michigan)**](https://www.coursera.org/account/accomplishments/certificate/S2OPNFA1JCNU)  
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo.svg" height="24"> **HTML & CSS in Depth (Meta)**](https://www.coursera.org/account/accomplishments/verify/01WW0TTVEK35)  
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo.svg" height="24"> **Programming with JavaScript (Meta)**](https://www.coursera.org/account/accomplishments/verify/GBPMZR9901NI)  
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" height="24"> **Google Crash Course on Python (Google)**](https://www.coursera.org/account/accomplishments/verify/AMBNN3KLZL4V)  
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="24" alt="IBM"> **Databases & SQL for Data Science with Python (IBM)**](https://www.coursera.org/account/accomplishments/verify/DFMPM5NYEM0S)  
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/University_of_Michigan_logo.svg" height="24" alt="University of Michigan"> **Introduction to HTML5 (University of Michigan)**](https://www.coursera.org/account/accomplishments/certificate/S2OPNFA1JCNU)  
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo.svg" height="24" alt="Meta"> **HTML & CSS in Depth (Meta)**](https://www.coursera.org/account/accomplishments/verify/01WW0TTVEK35)  
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo.svg" height="24" alt="Meta"> **Programming with JavaScript (Meta)**](https://www.coursera.org/account/accomplishments/verify/GBPMZR9901NI)  
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" height="24" alt="Google"> **Google Crash Course on Python (Google)**](https://www.coursera.org/account/accomplishments/verify/AMBNN3KLZL4V)  
+
 
 ---
 
