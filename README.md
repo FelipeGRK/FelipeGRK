@@ -11,7 +11,8 @@ I’m a junior Information Technology major at Fisher College with a minor in So
 
 ## 🛠 Tech Stack & Expertise
 
-### **Languages & Frameworks**  
+### **Languages & Frameworks** 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70CF6&width=435&lines=Python%2CJavaScript%2C+C%23%2C+Node.js%2C+HTML%2C+SQL%2C+PHP)](https://git.io/typing-svg)
 [<img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="Python" height="40"/> 
 [<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" height="40"/> 
 [<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" height="40"/> 
