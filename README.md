@@ -12,10 +12,15 @@ I’m a junior Information Technology major at Fisher College with a minor in So
 ## 🛠 Tech Stack & Expertise
 
 ### **Languages & Frameworks**  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40">]
-[img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40">]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40">]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Logo_C_sharp.svg" height="40">]
+[<img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="Python" height="40"/> 
+[<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" height="40"/> 
+[<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" height="40"/> 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg" alt="AJAX" height="40"/> 
+[<img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/sql-icon.svg" alt="SQL" height="40"/> 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" height="40"/> 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" height="40"/> 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5" height="40"/> 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" height="40"/>
 
 
 ### **Databases**
