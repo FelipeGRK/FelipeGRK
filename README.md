@@ -97,6 +97,7 @@ The Iron Forge Gym Website is a class project designed to showcase a professiona
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo.svg" height="24" alt="Meta"> **HTML & CSS in Depth (Meta)**](https://www.coursera.org/account/accomplishments/verify/01WW0TTVEK35)  
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo.svg" height="24" alt="Meta"> **Programming with JavaScript (Meta)**](https://www.coursera.org/account/accomplishments/verify/GBPMZR9901NI)  
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" height="24" alt="Google"> **Google Crash Course on Python (Google)**](https://www.coursera.org/account/accomplishments/verify/AMBNN3KLZL4V)  
+ 
 
 
 ---
