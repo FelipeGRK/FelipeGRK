@@ -20,10 +20,9 @@ I’m a junior Information Technology major at Fisher College with a minor in So
 
 
 ### **Web Development**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/HTML) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/CSS3_logo_and_wordmark.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/CSS) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="40">](https://www.typescriptlang.org/)  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Ajax_logo.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)  
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Ajax_logo.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)  
 
 ### **Database Management**  
 [<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="40">](https://www.mysql.com/)  
