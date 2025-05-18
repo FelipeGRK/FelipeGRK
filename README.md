@@ -15,11 +15,11 @@ I’m a junior Information Technology major at Fisher College with a minor in So
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70CF6&width=435&lines=Python%2CJavaScript%2C+C%23%2C+Node.js%2C+HTML%2C+SQL%2C+PHP)](https://git.io/typing-svg)
 
 ### **Languages & Frameworks**  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40">](https://www.python.org/) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="40">](https://nodejs.org/) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40">](https://www.php.net/)  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Logo_C_sharp.svg" height="40">](https://learn.microsoft.com/dotnet/csharp/) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40">]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40">]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="40">]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40">]
+[<img src="https://en.wikipedia.org/wiki/File:C_Sharp_Logo_2023.svg" height="40">]
 
 ### **Web Development**  
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/HTML) 
