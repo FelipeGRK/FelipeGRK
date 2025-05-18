@@ -26,12 +26,9 @@ I’m a junior Information Technology major at Fisher College with a minor in So
 [<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="40">](https://www.mysql.com/)  
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Microsoft_SQL_Server_Logo.svg" height="40">](https://www.microsoft.com/sql-server)  
 
-### **Cybersecurity & Networking**
-[<img src="https://www.kali.org/images/kali-tools-icon-missing.svg" height="40">](https://www.kali.org/)  
-[<img src="https://www.wireshark.org/favicon.ico" height="40">](https://www.wireshark.org/)  
-[<img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" height="40">](https://nmap.org/)  
-[<img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" height="40">](https://metasploit.com/)  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Vmware-by-broadcom.svg" height="40">](https://www.vmware.com/)  
+### **Cybersecurity & Automation**  
+- Secure Web Application Development • Threat Modeling • Access Control  
+- AI Integration & GPT API • Chatbot Development • Prompt Engineering  
 
 ### **DevOps & Tools**
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Docker_logo.svg" height="40">](https://www.docker.com/)  
