@@ -12,7 +12,6 @@ I’m a junior Information Technology major at Fisher College with a minor in So
 ## 🛠 Tech Stack & Expertise
 
 ### **Languages & Frameworks**
-### **Languages & Frameworks**
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40" alt="JavaScript" />
