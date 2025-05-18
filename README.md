@@ -4,8 +4,7 @@
 
 I’m a junior Information Technology major at Fisher College with a minor in Software Engineering—driven by a passion for building scalable, secure applications and solving challenging problems through code.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-siqueira-0bbb6a169/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/FelipeGRK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-siqueira-0bbb6a169/)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/FelipeGRK)
 
 ---
 
