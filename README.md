@@ -12,17 +12,19 @@ I’m a junior Information Technology major at Fisher College with a minor in So
 ## 🛠 Tech Stack & Expertise
 
 ### **Languages & Frameworks**
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40">
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40">
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="40">
 [<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40">
 [<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/C-Sharp_Logo.svg" height="40">
-
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40">](https://reactjs.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="40">](https://nodejs.org/)
 
 ### **Web Development**  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Ajax_logo.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)  
 
 ### **Database Management**  
 [<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="40">](https://www.mysql.com/)  
