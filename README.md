@@ -12,13 +12,27 @@ I’m a junior Information Technology major at Fisher College with a minor in So
 ## 🛠 Tech Stack & Expertise
 
 ### **Languages & Frameworks**
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40">
-[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="40">
-[<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40">
-[<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/C-Sharp_Logo.svg" height="40">
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40">](https://reactjs.org/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="40">](https://nodejs.org/)
+### **Languages & Frameworks**
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40" alt="JavaScript" />
+</a>
+<a href="https://www.python.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"       height="40" alt="Python" />
+</a>
+<a href="https://nodejs.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"            height="40" alt="Node.js" />
+</a>
+<a href="https://www.php.net/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"                height="40" alt="PHP" />
+</a>
+<a href="https://learn.microsoft.com/dotnet/csharp/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/C-Sharp_Logo.svg"            height="40" alt="C#" />
+</a>
+<a href="https://reactjs.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"              height="40" alt="React" />
+</a>
+
 
 ### **Web Development**  
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/HTML)
