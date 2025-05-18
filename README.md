@@ -81,24 +81,12 @@ I’m a junior Information Technology major at Fisher College with a minor in So
 ### 🏋️ Iron Forge Gym Website
 🔗 https://felipegrk.github.io/GymWebsite/home.html  
 **Project Description:**  
-The Iron Forge Gym Website is a class project designed to showcase a professional and modern web presence for a local boutique gym. It emphasizes a premium fitness experience, catering to individuals who seek high-quality facilities, expert guidance, and a supportive community.  
-
-**Key Features:**  
-- **Hero Section with Video Background:** Dynamic video backdrop with a bold call-to-action.  
-- **Highlights Section:** Showcases 24/7 access, premium equipment, and expert trainers.  
-- **Membership & Passes:** Detailed membership options and short-term passes.  
-- **Testimonials Section:** Real member testimonials to build trust.  
-- **Location Section:** Embedded Google Map and address details.  
-- **Footer:** Links to privacy policy, FAQ, promotional terms, and contact info.
+The Iron Forge Gym Website is a class project designed to showcase a professional and modern web presence for a local boutique gym. A practical demonstration of HTML, CSS, and JavaScript skills—simulating a real-world business website focused on user experience, branding, and accessibility.
 
 **Technical Highlights:**  
 - Responsive design for seamless experience across devices.  
 - Modern dark theme with red accents, bold typography, and hover effects.  
 - Interactive, mobile-friendly navigation menu.  
-- Embedded video and Google Maps for interactivity.
-
-**Purpose:**  
-A practical demonstration of HTML, CSS, and JavaScript skills—simulating a real-world business website focused on user experience, branding, and accessibility.
 
 ---
 
@@ -126,7 +114,6 @@ Expected Graduation: May 2026 | Dean’s List (GPA: 3.9)
 
 ✉️ felipesssiqueira@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/felipe-siqueira-0bbb6a169/)  
-🔗 [Portfolio & Projects](https://esportsfinderusa.com)  
 
 ---
 
