@@ -11,13 +11,12 @@ I’m a junior Information Technology major at Fisher College with a minor in So
 
 ## 🛠 Tech Stack & Expertise
 
-### **Languages & Frameworks**
 ### **Languages & Frameworks**  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40">](https://www.python.org/) :contentReference[oaicite:0]{index=0}  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) :contentReference[oaicite:1]{index=1}  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="40">](https://nodejs.org/) :contentReference[oaicite:2]{index=2}  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40">](https://www.php.net/) :contentReference[oaicite:3]{index=3}  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Logo_C_sharp.svg" height="40">](https://learn.microsoft.com/dotnet/csharp/) :contentReference[oaicite:4]{index=4}  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40">](https://www.python.org/)  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="40">](https://nodejs.org/)  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40">](https://www.php.net/)  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Logo_C_sharp.svg" height="40">](https://learn.microsoft.com/dotnet/csharp/) 
 
 
 ### **Databases**
