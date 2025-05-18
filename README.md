@@ -30,11 +30,10 @@ I’m a junior Information Technology major at Fisher College with a minor in So
 
 
 
-### **DevOps & Tools**  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/GitHub-Mark.svg" height="40">](https://github.com/)  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Docker_logo.svg" height="40">](https://www.docker.com/)  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40">](https://www.sql.org/)  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Visual_Studio_Code_1.35_icon.svg" height="40">](https://code.visualstudio.com/)  
+### **DevOps & Tools**   
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
 ### **Cybersecurity & Automation**  
