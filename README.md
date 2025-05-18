@@ -24,8 +24,9 @@ I’m a junior Information Technology major at Fisher College with a minor in So
 
 
 ### **Databases**
-[<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="40">](https://www.mysql.com/)  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Microsoft_SQL_Server_Logo.svg" height="40">](https://www.microsoft.com/sql-server)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MySQL" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PhpMyAdmin_logo.svg" alt="phpMyAdmin" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MySQL Workbench" height="40"/>
 
 ### **Cybersecurity & Automation**  
 - Secure Web Application Development • Threat Modeling • Access Control  
