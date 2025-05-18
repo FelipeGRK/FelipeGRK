@@ -20,7 +20,6 @@ I’m a junior Information Technology major at Fisher College with a minor in So
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40">](https://reactjs.org/)  
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="40">](https://nodejs.org/)  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40">](https://cplusplus.com/)  
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Csharp_Logo.png" height="40">](https://docs.microsoft.com/dotnet/csharp)  
 
 ### **Databases**
