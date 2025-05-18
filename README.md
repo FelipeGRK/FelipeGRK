@@ -44,6 +44,15 @@ I’m a junior Information Technology major at Fisher College with a minor in So
 - Full-stack platform (HTML, CSS, JavaScript, PHP, MySQL) to help students discover U.S. colleges offering esports scholarships.  
 - Integrated an AI-powered chatbot using OpenAI’s GPT API for personalized guidance.  
 - Optimized database queries for rapid search results and deployed via CI/CD to cPanel.
+- - **Front-End:** HTML • CSS • JavaScript  
+- **Back-End:** PHP • Node.js (API integration & server logic)  
+- **Database:** MySQL (Workbench & phpMyAdmin)  
+- **AI Chatbot:** OpenAI GPT API (custom prompts)  
+- **Deployment:** GitHub & cPanel  
+- **Highlights:**  
+  - AI-powered chatbot offering personalized suggestions  
+  - Searchable/filterable college database  
+  - Dynamic PHP pages with optimized SQL queries 
 
 ### 🎙️ Podcast GenAI Summarizer
 🔗 https://github.com/FelipeGRK/theamericanlifepodcast  
