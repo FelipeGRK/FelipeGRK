@@ -12,10 +12,10 @@ I’m a junior Information Technology major at Fisher College with a minor in So
 ## 🛠 Tech Stack & Expertise
 
 ### **Languages & Frameworks**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Logo_C_sharp.svg" height="40">
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40">]
+[img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40">]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40">]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Logo_C_sharp.svg" height="40">]
 
 
 ### **Databases**
