@@ -10,43 +10,94 @@ I’m a junior Information Technology major at Fisher College with a minor in So
 
 ## 🛠 Tech Stack & Expertise
 
-### **Languages & Frameworks**
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40" alt="JavaScript" />
-</a>
+### Programming & Frameworks
 <a href="https://www.python.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"       height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" />
 </a>
-<a href="https://nodejs.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"            height="40" alt="Node.js" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" />
 </a>
 <a href="https://www.php.net/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"                height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="40" />
 </a>
 <a href="https://learn.microsoft.com/dotnet/csharp/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/C-Sharp_Logo.svg"            height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="40" />
 </a>
-<a href="https://reactjs.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"              height="40" alt="React" />
+<a href="https://nodejs.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" />
+</a>
+<a href="https://www.openapis.org/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openapiinitiative.svg" alt="REST API" height="40" />
 </a>
 
+### Web Development
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40" />
+</a>
+<a href="https://api.jquery.com/ajax/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="AJAX" height="40" />
+</a>
+<a href="https://getbootstrap.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Responsive UI" height="40" />
+</a>
 
-### **Web Development**  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+### Database & Data
+<a href="https://www.mysql.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40" />
+</a>
+<a href="https://www.phpmyadmin.net/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/phpmyadmin.svg" alt="phpMyAdmin" height="40" />
+</a>
+<a href="https://www.mysql.com/products/workbench/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL Workbench" height="40" />
+</a>
 
+### AI & Automation
+<a href="https://openai.com/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg" alt="OpenAI API" height="40" />
+</a>
+<a href="https://developers.google.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Chatbot Dev" height="40" />
+</a>
+<a href="https://en.wikipedia.org/wiki/Prompt_engineering">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Prompt Engineering" height="40" />
+</a>
+<a href="https://developers.google.com/custom-search">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="API-Google CSE" height="40" />
+</a>
 
-### **Database Management**  
-[<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="40">](https://www.mysql.com/) [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PhpMyAdmin_logo.svg" height="40">](https://www.phpmyadmin.net/)
+### DevOps & Hosting
+<a href="https://git-scm.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git & GitHub" height="40" />
+</a>
+<a href="https://cpanel.net/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cpanel.svg" alt="cPanel" height="40" />
+</a>
+<a href="https://www.docker.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="40" />
+</a>
 
+### Cybersecurity
+<a href="https://owasp.org/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/owasp.svg" alt="Secure Web Dev." height="40" />
+</a>
+<a href="https://en.wikipedia.org/wiki/Access_control">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Access Control" height="40" />
+</a>
 
-
-### **DevOps & Tools**   
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
+### Additional Tools
+<a href="https://office.microsoft.com/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftoffice.svg" alt="Microsoft Office" height="40" />
+</a>
+<a href="https://docs.microsoft.com/office/vba/api/overview/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualbasic.svg" alt="VBA" height="40" />
+</a>
+<a href="https://www.virtualbox.org/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/virtualbox.svg" alt="Virtual Machines" height="40" />
+</a>
 
 ### **Cybersecurity & Automation**  
 - Secure Web Application Development • Threat Modeling • Access Control  
