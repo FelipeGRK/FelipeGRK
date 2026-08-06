@@ -38,8 +38,8 @@ IT professional with hands-on help desk experience and a strong lab-built founda
 ![Network Documentation](https://img.shields.io/badge/Network%20Documentation%20(NetBox%2FLucidchart)-D40000?style=flat-square)
 
 ### Endpoint & Device Management
-![Mosyle MDM](https://img.shields.io/badge/Mosyle%20MDM-6B7280?style=flat-square)
-![Apple School Manager](https://img.shields.io/badge/Apple%20School%20Manager-6B7280?style=flat-square)
+![INTUNE MDM](https://img.shields.io/badge/Mosyle%20MDM-6B7280?style=flat-square)
+![JAMF](https://img.shields.io/badge/Apple%20School%20Manager-6B7280?style=flat-square)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-6B7280?style=flat-square&logo=google&logoColor=white)
 
 ### Additional Tools
