@@ -1,169 +1,103 @@
+# Hello, I'm Felipe Cordeiro 🚀
 
-
-# Hello, I'm Felipe Cordeiro! 🚀
-
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-siqueira-0bbb6a169/)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/FelipeGRK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-siqueira-0bbb6a169/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/FelipeGRK)
 
 ---
 
-## 🛠 Tech Stack & Expertise
+IT professional with hands-on help desk experience and a strong lab-built foundation in systems administration and networking. I'm looking to grow into **IT Specialist / System Administrator / Network Administrator** roles, and I enjoy building real infrastructure — domains, monitoring stacks, and network segmentation — to actually learn the tools, not just read about them.
 
-### Programming & Frameworks
-<a href="https://www.python.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" />
-</a>
-<a href="https://www.php.net/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="40" />
-</a>
-<a href="https://learn.microsoft.com/dotnet/csharp/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="40" />
-</a>
-<a href="https://nodejs.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" />
-</a>
-<a href="https://www.openapis.org/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openapiinitiative.svg" alt="REST API" height="40" />
-</a>
+---
 
-### Web Development
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40" />
-</a>
-<a href="https://api.jquery.com/ajax/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="AJAX" height="40" />
-</a>
-<a href="https://getbootstrap.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Responsive UI" height="40" />
-</a>
+## 🛠 Technical Skills
 
-### Database & Data
-<a href="https://www.mysql.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40" />
-</a>
-<a href="https://www.phpmyadmin.net/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/phpmyadmin.svg" alt="phpMyAdmin" height="40" />
-</a>
-<a href="https://www.mysql.com/products/workbench/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL Workbench" height="40" />
-</a>
+### IT Support & Help Desk
+![Ticketing & Incident Mgmt](https://img.shields.io/badge/Ticketing%20%26%20Incident%20Management-4B5563?style=flat-square)
+![Remote Support](https://img.shields.io/badge/Remote%20Desktop%20Support-4B5563?style=flat-square)
+![Hardware/Software Troubleshooting](https://img.shields.io/badge/Hardware%2FSoftware%20Troubleshooting-4B5563?style=flat-square)
+![End User Support](https://img.shields.io/badge/End%20User%20Support-4B5563?style=flat-square)
 
-### AI & Automation
-<a href="https://openai.com/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg" alt="OpenAI API" height="40" />
-</a>
-<a href="https://developers.google.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Chatbot Dev" height="40" />
-</a>
-<a href="https://en.wikipedia.org/wiki/Prompt_engineering">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Prompt Engineering" height="40" />
-</a>
-<a href="https://developers.google.com/custom-search">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="API-Google CSE" height="40" />
-</a>
+### Systems Administration
+![Windows Server](https://img.shields.io/badge/Windows%20Server%202022-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory%20(AD%20DS)-0078D6?style=flat-square)
+![DNS](https://img.shields.io/badge/DNS-0078D6?style=flat-square)
+![Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Intune](https://img.shields.io/badge/Intune%20%2F%20Endpoint%20Mgmt-0078D6?style=flat-square)
+![Group Policy](https://img.shields.io/badge/Group%20Policy%20%2F%20RBAC-0078D6?style=flat-square)
 
-### DevOps & Hosting
-<a href="https://git-scm.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git & GitHub" height="40" />
-</a>
-<a href="https://cpanel.net/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cpanel.svg" alt="cPanel" height="40" />
-</a>
-<a href="https://www.docker.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="40" />
-</a>
+### Networking & Infrastructure
+![pfSense](https://img.shields.io/badge/pfSense%20(Firewall%2FRouting)-2C3E50?style=flat-square)
+![VLANs](https://img.shields.io/badge/VLANs%20%26%20Subnetting-2C3E50?style=flat-square)
+![DHCP](https://img.shields.io/badge/DHCP-2C3E50?style=flat-square)
+![UniFi](https://img.shields.io/badge/UniFi%20Switching-2C3E50?style=flat-square)
+![Meraki](https://img.shields.io/badge/Meraki%20Networking-2C3E50?style=flat-square)
+![Network Troubleshooting](https://img.shields.io/badge/Network%20Troubleshooting-2C3E50?style=flat-square)
 
-### Cybersecurity
-<a href="https://owasp.org/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/owasp.svg" alt="Secure Web Dev." height="40" />
-</a>
-<a href="https://en.wikipedia.org/wiki/Access_control">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Access Control" height="40" />
-</a>
+### Monitoring & Asset Management
+![Zabbix](https://img.shields.io/badge/Zabbix%20Monitoring-D40000?style=flat-square)
+![Asset Tracking](https://img.shields.io/badge/Asset%20Tracking%20(Snipe--IT)-D40000?style=flat-square)
+![Network Documentation](https://img.shields.io/badge/Network%20Documentation%20(NetBox%2FLucidchart)-D40000?style=flat-square)
+
+### Endpoint & Device Management
+![Mosyle MDM](https://img.shields.io/badge/Mosyle%20MDM-6B7280?style=flat-square)
+![Apple School Manager](https://img.shields.io/badge/Apple%20School%20Manager-6B7280?style=flat-square)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-6B7280?style=flat-square&logo=google&logoColor=white)
 
 ### Additional Tools
-<a href="https://office.microsoft.com/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftoffice.svg" alt="Microsoft Office" height="40" />
-</a>
-<a href="https://docs.microsoft.com/office/vba/api/overview/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualbasic.svg" alt="VBA" height="40" />
-</a>
-<a href="https://www.virtualbox.org/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/virtualbox.svg" alt="Virtual Machines" height="40" />
-</a>
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+![Git](https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### **Cybersecurity & Automation**  
-- Secure Web Application Development • Threat Modeling • Access Control  
-- AI Integration & GPT API • Chatbot Development • Prompt Engineering  
 ---
+
 ## 🏅 Certifications
 
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" height="24" alt="IBM"> **Databases & SQL for Data Science with Python (IBM)**](https://www.coursera.org/account/accomplishments/verify/DFMPM5NYEM0S)  
-- [<img src="[[https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/University_of_Michigan_logo.svg/256px-University_of_Michigan_logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/c/c1/University_of_Michigan_logo.svg)](https://upload.wikimedia.org/wikipedia/commons/c/c1/University_of_Michigan_logo.svg)" height="24" alt="University of Michigan"> **Introduction to HTML5 (University of Michigan)**](https://www.coursera.org/account/accomplishments/certificate/S2OPNFA1JCNU)  
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Meta_Platforms_Inc._logo.svg/256px-Meta_Platforms_Inc._logo.svg.png" height="24" alt="Meta"> **HTML & CSS in Depth (Meta)**](https://www.coursera.org/account/accomplishments/verify/01WW0TTVEK35)  
-- [<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Meta_Platforms_Inc._logo.svg/256px-Meta_Platforms_Inc._logo.svg.png" height="24" alt="Meta](https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg)"> **Programming with JavaScript (Meta)**](https://www.coursera.org/account/accomplishments/verify/GBPMZR9901NI)  
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" height="24" alt="Google"> **Google Crash Course on Python (Google)**](https://www.coursera.org/account/accomplishments/verify/AMBNN3KLZL4V)  
+- **Databases & SQL for Data Science with Python (IBM)** — [Verify](https://www.coursera.org/account/accomplishments/verify/DFMPM5NYEM0S)
+- **Introduction to HTML5 (University of Michigan)** — [Verify](https://www.coursera.org/account/accomplishments/certificate/S2OPNFA1JCNU)
+- **HTML & CSS in Depth (Meta)** — [Verify](https://www.coursera.org/account/accomplishments/verify/01WW0TTVEK35)
+- **Programming with JavaScript (Meta)** — [Verify](https://www.coursera.org/account/accomplishments/verify/GBPMZR9901NI)
+- **Google Crash Course on Python (Google)** — [Verify](https://www.coursera.org/account/accomplishments/verify/AMBNN3KLZL4V)
 
 ---
 
 ## 🚀 Notable Projects
 
-### 🎮 Esports College Finder
-🔗 https://esportsfinderusa.com  
-- Full-stack platform (HTML, CSS, JavaScript, PHP, MySQL) to help students discover U.S. colleges offering esports scholarships.  
-- Integrated an AI-powered chatbot using OpenAI’s GPT API for personalized guidance.  
-- Optimized database queries for rapid search results and deployed via CI/CD to cPanel.
-- - **Front-End:** HTML • CSS • JavaScript  
-- **Back-End:** PHP • Node.js (API integration & server logic)  
-- **Database:** MySQL (Workbench & phpMyAdmin)  
-- **AI Chatbot:** OpenAI GPT API (custom prompts)  
-- **Deployment:** GitHub & cPanel  
-- **Highlights:**  
-  - AI-powered chatbot offering personalized suggestions  
-  - Searchable/filterable college database  
-  - Dynamic PHP pages with optimized SQL queries 
+### 🖥️ IT Infrastructure Lab — Active Directory, Zabbix Monitoring & Endpoint Management
+*Feb 2026 – Apr 2026*
+- Designed and implemented a monitoring and asset-tracking platform for a domain-based environment, using Windows Server, Active Directory (AD DS), DNS, domain-joined clients, and Zabbix for centralized monitoring and alerting.
+- Built a Windows Server AD environment with AD DS, DNS, OUs, and RBAC to manage authentication, admin roles, and domain-joined endpoints.
+- Deployed a Linux-based Zabbix Server with agents on Windows and Linux hosts to monitor CPU, RAM, disk, host availability, and network metrics across a 3-VM lab (domain controller, client, monitoring server).
+- Integrated Microsoft Entra ID with on-prem AD via Entra Connect to validate hybrid identity, password sync, and cloud-to-AD writeback.
+- Used Intune for hybrid endpoint management.
 
-### 🎙️ Podcast GenAI Summarizer
-🔗 https://github.com/FelipeGRK/theamericanlifepodcast  
-- Scraped and cleaned “This American Life” transcripts with Python, BeautifulSoup & Pandas.  
-- Built a two-stage summarization pipeline using Hugging Face BART and DistilBART models.  
-- Implemented FAISS for semantic search and containerized the app with Docker.
+### 🔥 pfSense Virtual Firewall & Router Lab
+*Jan 2026 – Mar 2026*
+- Designed and built a virtualized enterprise-style network using pfSense and VirtualBox to simulate real-world routing, segmentation, and security practices.
+- Configured a dual-interface pfSense firewall/router (WAN/LAN), custom IPv4 subnetting, and DHCP; validated gateway behavior and resolved IP conflicts.
+- Implemented VLAN-based network segmentation with per-VLAN subnets, gateways, and firewall rules to isolate traffic between network zones.
+- Planned next phases: inter-VLAN routing policies, traffic monitoring/alerting, QoS, and documentation via NetBox/Lucidchart.
 
-### 🏋️ Iron Forge Gym Website
-🔗 https://felipegrk.github.io/GymWebsite/home.html  
-**Project Description:**  
-The Iron Forge Gym Website is a class project designed to showcase a professional and modern web presence for a local boutique gym. A practical demonstration of HTML, CSS, and JavaScript skills—simulating a real-world business website focused on user experience, branding, and accessibility.
-
-**Technical Highlights:**  
-- Responsive design for seamless experience across devices.  
-- Modern dark theme with red accents, bold typography, and hover effects.  
-- Interactive, mobile-friendly navigation menu.  
+### 📡 UniFi Network Infrastructure Implementation
+*Aug 2025*
+- Designed and deployed an isolated LAN using a UniFi Layer 2 switch to support live broadcast/production systems with stable, low-latency communication.
+- Configured static IPv4 addressing and PoE for Dante audio devices and production hardware to ensure reliable device discovery.
+- Set up dual-NIC configuration on the production PC to separate internet traffic from the local production network.
 
 ---
-
 
 ## 🎓 Education
 
-**Fisher College**, Boston, MA  
-Bachelor of Science in Information Technology  
-Minor: Software Engineering  
-Expected Graduation: May 2026 | Dean’s List (GPA: 3.9)
+**Fisher College**, Boston, MA
+Bachelor of Science in Information Technology
+Expected Graduation: May 2026 | Dean's List (GPA: 3.9)
+IT Help Desk experience supporting end users, troubleshooting hardware/software, and managing tickets.
 
 ---
 
+## 📬 Let's Connect
 
-## 📬 Let’s Connect
-
-✉️ felipesssiqueira@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/felipe-siqueira-0bbb6a169/)  
+✉️ felipesssiqueira@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/felipe-siqueira-0bbb6a169/)
 
 ---
 
-> “I love transforming ideas into code, securing applications end-to-end, and continuously learning emerging technologies.”  
+> "I'm looking to grow my career in IT support and infrastructure — building real systems, solving real problems, and learning from experienced professionals along the way."
