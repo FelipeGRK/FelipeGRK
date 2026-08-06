@@ -4,7 +4,7 @@
 
 ---
 
-IT professional with hands-on help desk experience and a strong lab-built foundation in systems administration and networking. I'm looking to grow into **IT Specialist / System Administrator / Network Administrator** roles, and I enjoy building real infrastructure — domains, monitoring stacks, and network segmentation — to actually learn the tools, not just read about them.
+IT professional with hands-on help desk experience and a strong lab-built foundation in systems administration and networking. I'm looking to grow into **IT Specialist / System Administrator / Network Administrator** roles, and I enjoy building real infrastructure — domains, monitoring stacks, and network segmentation
 
 ---
 
